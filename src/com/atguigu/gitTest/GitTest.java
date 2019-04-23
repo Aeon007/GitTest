@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		//注释0
 		//注释1
+		//新增注释https://github.com/Silenky/GitTest.git
 		System.out.println("hello world");
 	}
 
